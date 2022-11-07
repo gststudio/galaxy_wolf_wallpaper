@@ -8,7 +8,7 @@
     }
   ],
   
-  "more":[
+  "morex":[
    {
       "id":1,
       "title":"Ludo King",
@@ -29,7 +29,7 @@
     }
    ],
   
-  "Categories": [
+  "Categoriesx": [
     {
       "name_category": "Galaxy Wolf",
       "wallpaper_url": "https://i.pinimg.com/736x/e8/6f/15/e86f157d845d12a00bc8d58bdd81736f.jpg"
@@ -47,7 +47,7 @@
       "wallpaper_url": "https://i.pinimg.com/originals/ff/5e/57/ff5e57ae7a8e0d70f4b1f457185b59e0.jpg"
     }
   ],
-  "Wallpaper": [
+  "Wallpaperx": [
     {
       "id": 1,
       "name_category": "Galaxy Wolf",
